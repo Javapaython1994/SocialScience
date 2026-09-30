@@ -1,2 +1,0 @@
-# SocialScience
-App For Students
